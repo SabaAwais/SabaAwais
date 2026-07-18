@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there, I'm Saba 
 
-<!--
-**SabaAwais/SabaAwais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 FinTech undergrad @ FAST-NUCES Islamabad  
+💻 Into Python, SQL, and building things that mix tech with real-world impact  
+🌱 Currently exploring AI/ML and building a RAG-based stock research tool  
+🤝 Also doing outreach & CRM work for a nonprofit this summer  
 
-Here are some ideas to get you started:
+### 🛠️ Tech I use
+![C++](https://img.shields.io/badge/-C++-3776AB?style=flat&logo=c++&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+![Saba's GitHub stats](https://github-readme-stats.vercel.app/api?username=SabaAwais&show_icons=true&theme=default)
