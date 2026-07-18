@@ -1,16 +1,21 @@
 <div align="center">
-╔══════════════════════════════════════╗
-║                                        ║
-║     👾  HI, I'M SABA  👾               ║
-║                                        ║
-║   > FinTech ug @ FAST-NUCES            ║
-║   > C++ · Python · SQL                 ║
-║   > Exploring AI/ML 🌱                 ║
-║   > Building a RAG stock research tool ║
-║                                        ║
-╚══════════════════════════════════════╝
 
-<br>
+<pre>
+╔══════════════════════════════════════╗
+║                                      ║
+║        👾 HI, I'M SABA 👾            ║
+║                                      ║
+║   > FinTech @ FAST-NUCES             ║
+║   > C++ • Python • SQL               ║
+║   > Learning React & AI              ║
+║   > Building cool projects           ║
+║                                      ║
+╚══════════════════════════════════════╝
+</pre>
+
+</div>
+
+<pre>
 ╔══════════════════════════════════════╗
 ║           🛠️  TECH STACK  🛠️           ║
 ╚══════════════════════════════════════╝
@@ -21,11 +26,13 @@
 ![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=react&logoColor=00FF00)
 ![Django](https://img.shields.io/badge/-Django-000000?style=flat-square&logo=django&logoColor=00FF00)
 
-<br>
+</pre>
 ╔══════════════════════════════════════╗
 ║          📊  GITHUB STATS  📊          ║
 ╚══════════════════════════════════════╝
 
-![Saba's GitHub stats](https://github-readme-stats.vercel.app/api?username=SabaAwais&show_icons=true&theme=dark&hide_border=true)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=SabaAwais&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
 
 </div>
