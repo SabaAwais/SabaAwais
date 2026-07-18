@@ -1,19 +1,10 @@
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=500&color=800080&center=true&vCenter=true&width=900&lines=Hi+I'm+Saba!;FinTech+Student+%40+FAST-NUCES;Always+Learning+Something+New+%F0%9F%91%BE"/> </p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=500&color=800080&center=true&vCenter=true&width=900&lines=Hi+I'm+Saba!;Always+Learning+Something+New+%F0%9F%91%BE"/> </p>
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ## Profile 👾
-```text
-╔══════════════════════════════╗
-║          MY STATUS           ║
-╠══════════════════════════════╣
-║ Name   Saba                  ║
-║ Class  FinTech Undergraduate ║
-║                              ║
-║ Currently:                   ║
-║ ▸ Learning AI/ML             ║
-║ ▸ Building projects          ║
-╚══════════════════════════════╝
-```
+<p align="center">
+  <img src="./sabaBanner.png" width="400">
+</p>
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ## Tech Stack 🛠️
@@ -35,7 +26,6 @@
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ## GitHub Stats 📈
-
 <p align="center">
   <img src="https://github-readme-stats-jjt2.vercel.app/api?username=SabaAwais&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
