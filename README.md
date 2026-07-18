@@ -1,14 +1,31 @@
-╔═══════════════════════════════╗
-║   HII, I'M SABA               ║
-║   > FinTech ug @ FAST-NUCES   ║
-║   > C++ · Python · SQL        ║
-║   > Exploring AI/ML           ║
-╚═══════════════════════════════╝
+<div align="center">
+╔══════════════════════════════════════╗
+║                                        ║
+║     👾  HI, I'M SABA  👾               ║
+║                                        ║
+║   > FinTech ug @ FAST-NUCES            ║
+║   > C++ · Python · SQL                 ║
+║   > Exploring AI/ML 🌱                 ║
+║   > Building a RAG stock research tool ║
+║                                        ║
+╚══════════════════════════════════════╝
 
-# 🛠️ Tech
-![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+<br>
+╔══════════════════════════════════════╗
+║           🛠️  TECH STACK  🛠️           ║
+╚══════════════════════════════════════╝
 
-# 📊 GitHub Stats
-![Saba's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=SabaAwais&show_icons=true&theme=default)
+![C++](https://img.shields.io/badge/-C%2B%2B-000000?style=flat-square&logo=c%2B%2B&logoColor=00FF00)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=00FF00)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat-square&logo=postgresql&logoColor=00FF00)
+![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=react&logoColor=00FF00)
+![Django](https://img.shields.io/badge/-Django-000000?style=flat-square&logo=django&logoColor=00FF00)
+
+<br>
+╔══════════════════════════════════════╗
+║          📊  GITHUB STATS  📊          ║
+╚══════════════════════════════════════╝
+
+![Saba's GitHub stats](https://github-readme-stats.vercel.app/api?username=SabaAwais&show_icons=true&theme=dark&hide_border=true)
+
+</div>
