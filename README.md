@@ -37,6 +37,8 @@
 ## GitHub Stats 📈
 
 <p align="center">
-  <img src="https://github-readme-stats-jjt2.vercel.app/api?username=SabaAwais&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img 
+    src="https://github-readme-stats-jjt2.vercel.app/api?username=SabaAwais&show_icons=true&theme=tokyonight&hide_border=true"
+  />
 </p>
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
