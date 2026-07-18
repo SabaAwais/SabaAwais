@@ -1,50 +1,56 @@
-<!-- CAPSULE-STYLE PIXEL BANNER -->
+<!-- ===================== BANNER ===================== -->
+
 <p align="center">
-  <a href="https://github.com">
-    <img src="https://vercel.app" alt="Pixel Header Banner" />
-  </a>
+  <img src="./assets/banner.png" alt="Saba's Banner" width="100%" />
 </p>
 
-<!-- ARCADE TYPING SVG -->
 <p align="center">
-  <img src="https://demolab.com." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=1200&color=39FF14&center=true&vCenter=true&width=900&lines=Hi+I'm+Saba!;FinTech+Student+%40+FAST-NUCES;Building+AI+%26+Web+Projects;Always+Learning+Something+New+%F0%9F%91%BE" />
 </p>
 
 ---
 
-### 💻 CHARACTER STATS
+## 👾 Character Stats
+```txt
+Name      : Saba
 
-*   **Class:** FinTech Student 📊
-*   **Guild:** FAST NUCES 🏫
-*   **HP:** Powered by Coffee & Code ☕
-*   **EXP:** Turning financial problems into clean code 👾
+Current Quest
+→ Learning AI/ML
+```
 
-### ⚔️ INVENTORY (TECH STACK)
+---
 
-<p align="left">
-  <img src="https://shields.io" alt="C++">
-  <img src="https://shields.io" alt="Python">
-  <img src="https://shields.io" alt="SQL">
-</p>
-
-### 🛠️ EQUIPMENT (TOOLING)
-
-<p align="left">
-  <img src="https://shields.io" alt="Git">
-  <img src="https://shields.io" alt="GitHub">
-  <img src="https://shields.io" alt="VS Code">
-  <img src="https://shields.io" alt="Dev C++">
-  <img src="https://shields.io" alt="Unity">
-</p>
-
-### 📊 RETRO DASHBOARD
+## ⚔ Tech Stack
 
 <p align="center">
-  <img src="https://vercel.app" alt="Pixel GitHub Stats"/>
+<img src="https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=django&logoColor=39FF14"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/Unity-0D1117?style=for-the-badge&logo=unity&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=39FF14"/>
 </p>
 
 ---
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github.com" width="100px" alt="Game Over Sprite">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SabaAwais&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabaAwais&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=SabaAwais&theme=tokyonight&hide_border=true"/>
+</p>
+---
+
+<p align="center">
+💾 Thanks for stopping by!
 </p>
