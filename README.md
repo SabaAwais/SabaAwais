@@ -1,9 +1,9 @@
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=500&color=800080&center=true&vCenter=true&width=900&lines=Hi+I'm+Saba!;Always+Learning+Something+New+%F0%9F%91%BE"/> </p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=28&duration=3000&pause=500&color=800080&center=true&vCenter=true&width=900&lines=Hi+I'm+Saba!;Always+Learning+Something+New+%F0%9F%91%BE"/> </p>
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ## Profile 👾
 <p align="center">
-  <img src="./" width="400">
+  <img src="./saba_banner.png" width="400">
 </p>
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
