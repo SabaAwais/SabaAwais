@@ -3,7 +3,7 @@
 
 ## Profile 👾
 <p align="center">
-  <img src="./" width="400">
+  <img src="./sabaBanner.png" width="400">
 </p>
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
